@@ -1,2 +1,3 @@
-# Predicting_Crypto
-Predicting various crypto prices using FbProphet
+# Predicting Cryptocurrency Prices
+
+## About
