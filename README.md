@@ -19,7 +19,7 @@ This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial
 - seaborn
 - sklearn
 
-## Datasets Used
+## Datasets Used (Scraped from Yahoo Finances)
 
 - AAVE (AAVE)
 - BinanceCoin (BNB)
@@ -43,7 +43,20 @@ This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial
 
 ## Conclusion
 
+- Changes in cryptocurrency prices are not reliant on other cryptocurrencies
 - Cryptocurrencies are generally predictable as long as there is no sudden changes that affects their prices significantly
-- Prediction accuracy of both will be lower over a longer period of time
+- Future prediction will have a wider range the further one predicts
+- Having a larger (and more recent) dataset will result in higher prediction accuracy
+- FbProphet seems to be clearer and more accurate in predicting various cryptocurrencies
+
+## What did we learn
+
+- Scraping datasets using pandas datareader
+- FbProphet and its implementation
+- Neural Networks, Keras and Tensorflow
+- Data Visualisation
 
 ## References
+- https://github.com/rohan-paul/Cryptocurrency-Kaggle
+- https://towardsdatascience.com/cryptocurrency-price-prediction-using-lstms-tensorflow-for-hackers-part-iii-264fcdbccd3f
+- https://facebook.github.io/prophet/docs/quick_start.html
