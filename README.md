@@ -8,7 +8,7 @@ This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial
 
 - @NotAnAddictz - Data Extraction, Tensorflow, FbProphet
 - @weix1233 - FbProphet, Tensorflow
-- @avdheshcharjan - Data Visualisation, Data Extraction
+- @avdheshcharjan - Data Visualisation, Data Extraction, FbProphet
 
 ## Main Packages Used
 
